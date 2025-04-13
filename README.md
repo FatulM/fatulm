@@ -82,6 +82,12 @@ Currently, I work as a Machine Learning Engineer and Data Scientist, delivering 
   There is clone of project with fixes [here](https://gitlab.com/FatulM/harmony_log). 
   **Pub pages:** [harmony_log](https://pub.dev/packages/harmony_log)
 
+- **[harmony_auth Flutter Package](https://pub.dev/packages/harmony_auth)**  
+  Harmony Low-Level Authentication and Token Management Mechanism.
+  The code is proprietary.
+  There is clone of project with fixes [here](https://gitlab.com/FatulM/harmony_auth).
+  **Pub pages:** [harmony_auth](https://pub.dev/packages/harmony_auth)
+
 ---
 
 ## Contact
