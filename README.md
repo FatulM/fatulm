@@ -77,7 +77,9 @@ Currently, I work as a Machine Learning Engineer and Data Scientist, delivering 
   **Pub pages:** [sealed_annotations](https://pub.dev/packages/sealed_annotations), [sealed_generators](https://pub.dev/packages/sealed_generators), [sealed_writer](https://pub.dev/packages/sealed_writer)
 
 - **[harmony_log Dart and Flutter Package](https://pub.dev/packages/harmony_log)**  
-  Harmony Logging Mechanism with various implementations of filters and outputs.  
+  Harmony Logging Mechanism with various implementations of filters and outputs.
+  The code is proprietary.
+  There is clone of project with fixes [here](https://gitlab.com/FatulM/harmony_log). 
   **Pub pages:** [harmony_log](https://pub.dev/packages/harmony_log)
 
 ---
