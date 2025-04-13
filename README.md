@@ -73,7 +73,8 @@ Currently, I work as a Machine Learning Engineer and Data Scientist, delivering 
   **Pub pages:** [shamsi_date](https://pub.dev/packages/shamsi_date)
 
 - **[dart_sealed Dart and Flutter Package](https://github.com/6thsolution/dart_sealed)**  
-  A Dart and Flutter library for generating sealed classes with abstract super types and data subclasses. This project is mostly developed by me.  
+  A Dart and Flutter library for generating sealed classes with abstract super types and data subclasses. This project is mostly developed by me.
+  There is a fixed clone [here](https://github.com/FatulM/dart_sealed), waiting to be merged to upstream repository.
   **Pub pages:** [sealed_annotations](https://pub.dev/packages/sealed_annotations), [sealed_generators](https://pub.dev/packages/sealed_generators), [sealed_writer](https://pub.dev/packages/sealed_writer)
 
 - **[harmony_log Dart and Flutter Package](https://pub.dev/packages/harmony_log)**  
